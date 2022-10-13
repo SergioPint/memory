@@ -8,7 +8,7 @@ export const GameStart = () => {
 
   return (
     <StyledGameStart>
-      <h2>Welcome to Alizée Memory!</h2>
+      <h2>Welcome to Cat Memory!</h2>
       <p>
         Remember exactly which picture you have already clicked on. A picture
         may only be selected once, otherwise the round is lost. A maximum of 12

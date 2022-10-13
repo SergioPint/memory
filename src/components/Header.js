@@ -10,7 +10,7 @@ export const Header = () => {
         <StyledLogo>
           <SvgCat />
           <h1>
-            Alizée<span>Memory</span>
+            Cat<span>Memory</span>
           </h1>
         </StyledLogo>
       </a>
